@@ -1,0 +1,21 @@
+﻿{
+    "pack": {
+        "pack_format": 42,
+        "supported_formats": [1,200],
+        "description": [
+            {
+                "translate": "virus.by_virus",
+                "fallback": "by Virus.",
+                "color": "red"
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "1.21.2-rp",
+                "formats": [35,200]
+            }
+        ]
+    }
+}
