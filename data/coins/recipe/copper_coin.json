@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:diamond"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:command_block",
+    "components": {
+      "minecraft:item_model": "coins:copper_coin",
+      "minecraft:item_name": {
+        "text": "Copper Coin",
+        "color": "#C15A36"
+      },
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Common",
+          "color": "gray"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "1/4 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "1 Diamond",
+          "color": "aqua"
+        }
+      ]
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:test_block"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:chain_command_block",
+    "components": {
+      "minecraft:item_model": "coins:gold_coin",
+      "minecraft:item_name": {
+        "text": "Gold Coin",
+        "color": "gold"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Rare",
+          "color": "blue"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "4 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "16 Diamond",
+          "color": "aqua"
+        }
+      ],
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      }
+    },
+    "count": 4
+  }
+}

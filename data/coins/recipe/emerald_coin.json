@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii",
+    "ii"
+  ],
+  "key": {
+    "i": [
+      "minecraft:chain_command_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:test_block",
+    "components": {
+      "minecraft:item_model": "coins:emerald_coin",
+      "minecraft:item_name": {
+        "text": "Emerald Coin",
+        "color": "green"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Epic",
+          "color": "dark_purple"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "16 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "64 Diamond",
+          "color": "aqua"
+        }
+      ],
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      }
+    },
+    "count": 1
+  }
+}

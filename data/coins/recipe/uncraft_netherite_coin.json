@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      "minecraft:jigsaw"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:structure_block",
+    "components": {
+      "minecraft:item_model": "coins:diamond_coin",
+      "minecraft:item_name": {
+        "text": "Diamond Coin",
+        "color": "aqua"
+      },
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Legendary",
+          "color": "gold"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "64 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "256 Diamond",
+          "color": "aqua"
+        }
+      ]
+    },
+    "count": 4
+  }
+}

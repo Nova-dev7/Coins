@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii",
+    "ii"
+  ],
+  "key": {
+    "i": [
+      "minecraft:command_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:repeating_command_block",
+    "components": {
+      "minecraft:item_model": "coins:iron_coin",
+      "minecraft:item_name": {
+        "text": "Iron Coin",
+        "color": "white"
+      },
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Uncommon",
+          "color": "green"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "1 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "4 Diamond",
+          "color": "aqua"
+        }
+      ]
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii",
+    "ii"
+  ],
+  "key": {
+    "i": [
+      "minecraft:structure_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:jigsaw",
+    "components": {
+      "minecraft:item_model": "coins:netherite_coin",
+      "minecraft:item_name": {
+        "text": "Netherite Coin",
+        "color": "gray"
+      },
+      "minecraft:lore": [
+        {
+          "text": "Mythic",
+          "color": "red"
+        },
+        {
+          "text": "Price:",
+          "color": "yellow"
+        },
+        {
+          "text": "256 Netherite",
+          "color": "gray"
+        },
+        {
+          "text": "1024 Diamond",
+          "color": "aqua"
+        }
+      ],
+      "minecraft:damage_resistant": {
+        "types": "#minecraft:is_fire"
+      }
+    },
+    "count": 1
+  }
+}
