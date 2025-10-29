@@ -4,7 +4,7 @@
   "definition": {
     "recipeType": "Crafting",
     "recipeRetstackSize": 1,
-    "group": "coins",
+    "group": "coin",
     "unlockingItems": [
       {
         "value": "CUSTOM:Ironcoin"
