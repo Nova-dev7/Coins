@@ -1,0 +1,15 @@
+{
+  "item_group.coins.coins": "Coins",
+  "item.coins.copper_coin.description_0": "Rarity: §7Common",
+  "item.coins.copper_coin": "§cCopper coin",
+  "item.coins.iron_coin.description_0": "Rarity: §aUncommon",
+  "item.coins.iron_coin": "§fIron coin",
+  "item.coins.gold_coin": "§eGold coin",
+  "item.coins.gold_coin.description_0": "Rarity: §bRare",
+  "item.coins.emerald_coin": "§aEmerald coin",
+  "item.coins.emerald_coin.description_0": "Rarity: §dEpic",
+  "item.coins.diamond_coin": "§bDiamond coin",
+  "item.coins.diamond_coin.description_0": "Rarity: §cLegendary",
+  "item.coins.netherite_coin": "§7Netherite coin",
+  "item.coins.netherite_coin.description_0": "Rarity: §6Mythic"
+}

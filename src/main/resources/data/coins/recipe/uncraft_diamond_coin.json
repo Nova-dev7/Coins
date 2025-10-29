@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "coins",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": "coins:diamond_coin"
+  },
+  "result": {
+    "id": "coins:emerald_coin",
+    "count": 4
+  }
+}

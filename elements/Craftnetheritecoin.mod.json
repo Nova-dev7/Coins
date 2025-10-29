@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "coins",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Netheritecoin"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Diamondcoin"
+      },
+      {
+        "value": "CUSTOM:Diamondcoin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Diamondcoin"
+      },
+      {
+        "value": "CUSTOM:Diamondcoin"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Netheritecoin"
+    },
+    "name": "craft_netherite_coin",
+    "namespace": "mod"
+  }
+}

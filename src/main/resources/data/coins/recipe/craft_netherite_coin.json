@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "coins",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "coins:diamond_coin"
+  },
+  "result": {
+    "id": "coins:netherite_coin",
+    "count": 1
+  }
+}
